@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>留在香港</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-30T06:44:34.773Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Charles J/甲公明</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/12/30/My-New-Post/"/>
+    <id>http://example.com/2023/12/30/My-New-Post/</id>
+    <published>2023-12-30T06:44:34.773Z</published>
+    <updated>2023-12-30T06:44:34.773Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-My-New-Postdate-2023-12-30-14-38-52tags"><a href="#title-My-New-Postdate-2023-12-30-14-38-52tags" class="headerlink" title="title: My New Postdate: 2023-12-30 14:38:52tags:"></a>title: My New Post<br>date: 2023-12-30 14:38:52<br>tags:</h2><p>#关于校园霸凌我们要说不<br>                                           –作者：Charles J&#x2F; 甲公明<br>##如果说你喜欢的话，请参考我的链接：<a href="https://twitter.com/home">https://twitter.com/home</a><br>你觉得怎么样呢<br>![Alt text](.&#x2F;Yellow Bright Business Idea Tutorial Youtube Thumbnail 2.png)<br>校园霸凌我们是不能容忍的</p><h3 id="如果有人想要你的命你就给他写遗传代码："><a href="#如果有人想要你的命你就给他写遗传代码：" class="headerlink" title="如果有人想要你的命你就给他写遗传代码："></a>如果有人想要你的命你就给他写遗传代码：</h3><h2 id="Heading"><a href="#Heading" class="headerlink" title="Heading"></a><code>Heading</code></h2><!DOCTYPE html><html><head></head><body></body></html><h2 id="this-video-is-my-viewpoint-about-the-ting：https-youtu-be-gs5-kEa55io-si-9J9-zzW3ffmQPvqi"><a href="#this-video-is-my-viewpoint-about-the-ting：https-youtu-be-gs5-kEa55io-si-9J9-zzW3ffmQPvqi" class="headerlink" title="###this video is my viewpoint about the ting：https://youtu.be/gs5_kEa55io?si=9J9-zzW3ffmQPvqi"></a>###this video is my viewpoint about the ting：<br><a href="https://youtu.be/gs5_kEa55io?si=9J9-zzW3ffmQPvqi">https://youtu.be/gs5_kEa55io?si=9J9-zzW3ffmQPvqi</a><br><iframe width="560" height="315" src="https://www.youtube.com/embed/gs5_kEa55io?si=9J9-zzW3ffmQPvqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;title-My-New-Postdate-2023-12-30-14-38-52tags&quot;&gt;&lt;a href=&quot;#title-My-New-Postdate-2023-12-30-14-38-52tags&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>text</title>
+    <link href="http://example.com/2023/12/30/text/"/>
+    <id>http://example.com/2023/12/30/text/</id>
+    <published>2023-12-30T04:16:03.000Z</published>
+    <updated>2023-12-30T04:21:01.918Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇新的文章</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一篇新的文章&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/12/29/hello-world/"/>
+    <id>http://example.com/2023/12/29/hello-world/</id>
+    <published>2023-12-29T05:04:55.581Z</published>
+    <updated>2023-12-29T05:04:55.581Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
